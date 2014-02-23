@@ -8,6 +8,14 @@ Do interesting things with your local Messages.app-database
 npm install messages.app
 ```
 
+## WTF?
+
+Apple uses a sqlite-database to save your iMessages. So then you can query it to do interesting things!
+
+## Is this safe to use?
+
+Who knows? Probably not.
+
 ## Example
 
 ```javascript
