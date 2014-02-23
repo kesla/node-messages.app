@@ -1,0 +1,23 @@
+{
+  "name": "messages.app",
+  "version": "0.0.0",
+  "description": "Do interesting things with your local Messages.app-database",
+  "main": "messages.js",
+  "dependencies": {
+    "sqlite3": "~2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kesla/node-messages.app.git"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesla/node-messages.app/issues"
+  },
+  "homepage": "https://github.com/kesla/node-messages.app"
+}
