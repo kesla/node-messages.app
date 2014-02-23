@@ -1,6 +1,6 @@
 {
   "name": "messages.app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Do interesting things with your local Messages.app-database",
   "main": "messages.js",
   "dependencies": {
